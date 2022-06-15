@@ -1,0 +1,10 @@
+### Module positions - created on 2022-02-04 20:20
+### Printed by pcb_positions plugin
+## Unit = mm, Angle = deg.
+## Pcb Height 50.333mm, Pcb Width 50.334mm [based on Edge bounding box]
+## Side : bottom
+## Board Aux Origin: 0.000mm ,0.000mm
+# Ref         Val                 Package                       PosX       PosY       Pin1_PosX  Pin1_PosY    Rot     Side      Type
+D2            WS2812B             LED_WS2812B_PLCC4_5.0x5.0mm.. 198.5400   -141.9100  192.6400   -136.8600   180.0    bottom    SMD
+D1            WS2812B             LED_WS2812B_PLCC4_5.0x5.0mm.. 206.4800   -141.9100  200.5800   -136.8600   180.0    bottom    SMD
+## End

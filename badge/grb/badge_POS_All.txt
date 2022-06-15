@@ -1,0 +1,32 @@
+### Module positions - created on 2022-02-04 20:20
+### Printed by pcb_positions plugin
+## Unit = mm, Angle = deg.
+## Pcb Height 50.333mm, Pcb Width 50.334mm [based on Edge bounding box]
+## Side : ALL
+## Board Aux Origin: 0.000mm ,0.000mm
+# Ref         Val                 Package                       PosX       PosY       Pin1_PosX  Pin1_PosY    Rot     Side      Type
+D14           LED                 LED_0805_2012Metric_Pad1.15.. 240.7600   -132.0800  239.7350   -132.0800     0.0    top       SMD
+D13           LED                 LED_0805_2012Metric_Pad1.15.. 240.7600   -135.1200  239.7350   -135.1200     0.0    top       SMD
+D12           LED                 LED_0805_2012Metric_Pad1.15.. 245.5500   -132.0800  244.5250   -132.0800     0.0    top       SMD
+D11           LED                 LED_0805_2012Metric_Pad1.15.. 235.9700   -129.0400  234.9450   -129.0400     0.0    top       SMD
+D10           LED                 LED_0805_2012Metric_Pad1.15.. 245.5500   -135.1200  244.5250   -135.1200     0.0    top       SMD
+D9            LED                 LED_0805_2012Metric_Pad1.15.. 235.9700   -132.0800  234.9450   -132.0800     0.0    top       SMD
+D8            LED                 LED_0805_2012Metric_Pad1.15.. 235.9700   -135.1200  234.9450   -135.1200     0.0    top       SMD
+D7            LED                 LED_0805_2012Metric_Pad1.15.. 245.5500   -129.0400  244.5250   -129.0400     0.0    top       SMD
+D6            LED                 LED_0805_2012Metric_Pad1.15.. 250.3400   -129.0400  249.3150   -129.0400     0.0    top       SMD
+D5            LED                 LED_0805_2012Metric_Pad1.15.. 250.3400   -135.1200  249.3150   -135.1200     0.0    top       SMD
+D4            LED                 LED_0805_2012Metric_Pad1.15.. 250.3400   -132.0800  249.3150   -132.0800     0.0    top       SMD
+D3            LED                 LED_0805_2012Metric_Pad1.15.. 240.7600   -129.0400  239.7350   -129.0400     0.0    top       SMD
+D2            WS2812B             LED_WS2812B_PLCC4_5.0x5.0mm.. 198.5400   -141.9100  192.6400   -136.8600   180.0    bottom    SMD
+D1            WS2812B             LED_WS2812B_PLCC4_5.0x5.0mm.. 206.4800   -141.9100  200.5800   -136.8600   180.0    bottom    SMD
+B1            Badge               layers                        195.5800   -133.8000  0.0000     0.0000        0.0    top       THD
+## End
+## 32 SMD pads
+## 0 TH pads
+## 0 Virtual pads
+## 1 Top TH modules
+## 0 Bot TH modules
+## 12 Top SMD modules
+## 2 Bot SMD modules
+## 0 Top Virtual modules
+## 0 Bot Virtual modules
