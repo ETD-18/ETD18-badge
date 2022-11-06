@@ -1,0 +1,5 @@
+06-20 14:45:59 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 278:Plugin executed on: 'darwin'
+06-20 14:45:59 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 279:Plugin executed with python version: '3.8.2 (v3.8.2:7b3ab5921f, Feb 24 2020, 17:52:18) \n[Clang 6.0 (clang-600.0.57)]'
+06-20 14:45:59 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 280:KiCad build version: (6.0.5-0)
+06-20 14:45:59 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 281:Plugin version: 1.1.0
+06-20 14:45:59 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 282:Frame repr: <wx._core.Frame object at 0x7fdf49da5160>

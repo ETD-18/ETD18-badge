@@ -1,5 +1,946 @@
-02-04 20:20:23 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 378:Plugin executed on: 'darwin'
-02-04 20:20:23 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 379:Plugin executed with python version: '3.8.2 (v3.8.2:7b3ab5921f, Feb 24 2020, 17:52:18) \n[Clang 6.0 (clang-600.0.57)]'
-02-04 20:20:23 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 380:KiCad build version: (6.0.1-0)
-02-04 20:20:23 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 381:Plugin version: 1.1.0
-02-04 20:20:23 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 382:Frame repr: None
+06-21 11:08:52 root 1331:Loading system fonts.
+06-21 11:08:52 root 1349:  Found 135 fonts in system
+06-21 11:08:53 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:08:53 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:08:53 root 458:  Inlining 3 segments...
+06-21 11:08:53 root 928:  Writing Text with 59 points
+06-21 11:08:53 root 928:  Writing Text with 13 points
+06-21 11:08:55 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:08:55 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:08:55 root 458:  Inlining 1 segments...
+06-21 11:08:56 root 928:  Writing Text with 24 points
+06-21 11:08:58 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:08:58 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:08:58 root 458:  Inlining 1 segments...
+06-21 11:08:58 root 928:  Writing Text with 24 points
+06-21 11:08:58 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:08:58 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:08:58 root 458:  Inlining 1 segments...
+06-21 11:08:58 root 928:  Writing Text with 24 points
+06-21 11:08:58 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:08:58 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:08:58 root 458:  Inlining 2 segments...
+06-21 11:08:58 root 928:  Writing Text with 67 points
+06-21 11:08:59 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:08:59 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:08:59 root 458:  Inlining 4 segments...
+06-21 11:08:59 root 928:  Writing Text with 114 points
+06-21 11:08:59 root 928:  Writing Text with 15 points
+06-21 11:09:05 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:05 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:05 root 458:  Inlining 7 segments...
+06-21 11:09:05 root 928:  Writing Text with 156 points
+06-21 11:09:05 root 928:  Writing Text with 15 points
+06-21 11:09:05 root 928:  Writing Text with 9 points
+06-21 11:09:05 root 928:  Writing Text with 9 points
+06-21 11:09:06 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:06 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:06 root 458:  Inlining 5 segments...
+06-21 11:09:06 root 928:  Writing Text with 154 points
+06-21 11:09:06 root 928:  Writing Text with 15 points
+06-21 11:09:07 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:07 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:07 root 458:  Inlining 4 segments...
+06-21 11:09:07 root 928:  Writing Text with 114 points
+06-21 11:09:07 root 928:  Writing Text with 15 points
+06-21 11:09:07 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:07 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:07 root 458:  Inlining 5 segments...
+06-21 11:09:07 root 928:  Writing Text with 147 points
+06-21 11:09:07 root 928:  Writing Text with 15 points
+06-21 11:09:07 root 928:  Writing Text with 16 points
+06-21 11:09:08 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:08 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:08 root 458:  Inlining 6 segments...
+06-21 11:09:08 root 928:  Writing Text with 171 points
+06-21 11:09:08 root 928:  Writing Text with 15 points
+06-21 11:09:08 root 928:  Writing Text with 16 points
+06-21 11:09:09 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:09 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:09 root 458:  Inlining 5 segments...
+06-21 11:09:09 root 928:  Writing Text with 147 points
+06-21 11:09:09 root 928:  Writing Text with 15 points
+06-21 11:09:09 root 928:  Writing Text with 16 points
+06-21 11:09:09 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:09 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:09 root 458:  Inlining 5 segments...
+06-21 11:09:09 root 928:  Writing Text with 147 points
+06-21 11:09:09 root 928:  Writing Text with 15 points
+06-21 11:09:09 root 928:  Writing Text with 16 points
+06-21 11:09:10 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:10 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:10 root 458:  Inlining 5 segments...
+06-21 11:09:10 root 928:  Writing Text with 147 points
+06-21 11:09:10 root 928:  Writing Text with 15 points
+06-21 11:09:10 root 928:  Writing Text with 16 points
+06-21 11:09:10 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:10 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:10 root 458:  Inlining 6 segments...
+06-21 11:09:10 root 928:  Writing Text with 188 points
+06-21 11:09:10 root 928:  Writing Text with 15 points
+06-21 11:09:10 root 928:  Writing Text with 16 points
+06-21 11:09:11 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:11 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:11 root 458:  Inlining 6 segments...
+06-21 11:09:11 root 928:  Writing Text with 188 points
+06-21 11:09:11 root 928:  Writing Text with 15 points
+06-21 11:09:11 root 928:  Writing Text with 16 points
+06-21 11:09:14 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:14 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:14 root 458:  Inlining 6 segments...
+06-21 11:09:14 root 928:  Writing Text with 188 points
+06-21 11:09:14 root 928:  Writing Text with 15 points
+06-21 11:09:14 root 928:  Writing Text with 16 points
+06-21 11:09:14 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:15 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:15 root 458:  Inlining 7 segments...
+06-21 11:09:15 root 928:  Writing Text with 194 points
+06-21 11:09:15 root 928:  Writing Text with 15 points
+06-21 11:09:15 root 928:  Writing Text with 16 points
+06-21 11:09:18 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:18 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:18 root 458:  Inlining 6 segments...
+06-21 11:09:18 root 928:  Writing Text with 188 points
+06-21 11:09:18 root 928:  Writing Text with 15 points
+06-21 11:09:18 root 928:  Writing Text with 16 points
+06-21 11:09:21 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:21 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:21 root 458:  Inlining 6 segments...
+06-21 11:09:21 root 928:  Writing Text with 188 points
+06-21 11:09:21 root 928:  Writing Text with 15 points
+06-21 11:09:21 root 928:  Writing Text with 16 points
+06-21 11:09:22 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:22 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:22 root 458:  Inlining 7 segments...
+06-21 11:09:22 root 928:  Writing Text with 202 points
+06-21 11:09:22 root 928:  Writing Text with 15 points
+06-21 11:09:22 root 928:  Writing Text with 16 points
+06-21 11:09:25 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:25 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:25 root 458:  Inlining 8 segments...
+06-21 11:09:25 root 928:  Writing Text with 219 points
+06-21 11:09:25 root 928:  Writing Text with 15 points
+06-21 11:09:25 root 928:  Writing Text with 16 points
+06-21 11:09:25 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:25 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:25 root 458:  Inlining 9 segments...
+06-21 11:09:25 root 928:  Writing Text with 257 points
+06-21 11:09:25 root 928:  Writing Text with 15 points
+06-21 11:09:25 root 928:  Writing Text with 16 points
+06-21 11:09:25 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:25 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:26 root 458:  Inlining 10 segments...
+06-21 11:09:26 root 928:  Writing Text with 298 points
+06-21 11:09:26 root 928:  Writing Text with 15 points
+06-21 11:09:26 root 928:  Writing Text with 16 points
+06-21 11:09:29 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:29 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:29 root 458:  Inlining 4 segments...
+06-21 11:09:29 root 928:  Writing Text with 141 points
+06-21 11:09:29 root 928:  Writing Text with 15 points
+06-21 11:09:30 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:30 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:30 root 458:  Inlining 5 segments...
+06-21 11:09:30 root 928:  Writing Text with 181 points
+06-21 11:09:30 root 928:  Writing Text with 15 points
+06-21 11:09:30 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:31 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:31 root 458:  Inlining 4 segments...
+06-21 11:09:31 root 928:  Writing Text with 141 points
+06-21 11:09:31 root 928:  Writing Text with 15 points
+06-21 11:09:31 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:31 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:31 root 458:  Inlining 3 segments...
+06-21 11:09:31 root 928:  Writing Text with 100 points
+06-21 11:09:31 root 928:  Writing Text with 15 points
+06-21 11:09:32 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:32 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:32 root 458:  Inlining 4 segments...
+06-21 11:09:32 root 928:  Writing Text with 141 points
+06-21 11:09:32 root 928:  Writing Text with 15 points
+06-21 11:09:32 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:32 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:32 root 458:  Inlining 6 segments...
+06-21 11:09:32 root 928:  Writing Text with 179 points
+06-21 11:09:32 root 928:  Writing Text with 15 points
+06-21 11:09:35 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:35 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:35 root 458:  Inlining 6 segments...
+06-21 11:09:35 root 928:  Writing Text with 178 points
+06-21 11:09:35 root 928:  Writing Text with 15 points
+06-21 11:09:37 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:37 root 458:  Inlining 6 segments...
+06-21 11:09:38 root 928:  Writing Text with 178 points
+06-21 11:09:38 root 928:  Writing Text with 15 points
+06-21 11:09:46 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:46 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:46 root 458:  Inlining 6 segments...
+06-21 11:09:46 root 928:  Writing Text with 178 points
+06-21 11:09:46 root 928:  Writing Text with 15 points
+06-21 11:09:48 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:48 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:48 root 458:  Inlining 6 segments...
+06-21 11:09:48 root 928:  Writing Text with 178 points
+06-21 11:09:48 root 928:  Writing Text with 15 points
+06-21 11:09:48 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:09:48 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:48 root 458:  Inlining 6 segments...
+06-21 11:09:48 root 928:  Writing Text with 178 points
+06-21 11:09:48 root 928:  Writing Text with 15 points
+06-21 11:09:50 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:09:50 root 458:  Inlining 6 segments...
+06-21 11:09:50 root 928:  Writing Text with 178 points
+06-21 11:09:50 root 928:  Writing Text with 15 points
+06-21 11:42:18 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:18 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:18 root 458:  Inlining 6 segments...
+06-21 11:42:18 root 928:  Writing Text with 178 points
+06-21 11:42:18 root 928:  Writing Text with 15 points
+06-21 11:42:34 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:34 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:34 root 458:  Inlining 6 segments...
+06-21 11:42:34 root 928:  Writing Text with 178 points
+06-21 11:42:34 root 928:  Writing Text with 15 points
+06-21 11:42:36 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:36 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:36 root 458:  Inlining 1 segments...
+06-21 11:42:36 root 928:  Writing Text with 49 points
+06-21 11:42:36 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:36 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:36 root 458:  Inlining 2 segments...
+06-21 11:42:36 root 928:  Writing Text with 75 points
+06-21 11:42:36 root 928:  Writing Text with 10 points
+06-21 11:42:36 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:36 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:36 root 458:  Inlining 3 segments...
+06-21 11:42:36 root 928:  Writing Text with 99 points
+06-21 11:42:36 root 928:  Writing Text with 10 points
+06-21 11:42:37 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:37 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:37 root 458:  Inlining 3 segments...
+06-21 11:42:37 root 928:  Writing Text with 99 points
+06-21 11:42:37 root 928:  Writing Text with 10 points
+06-21 11:42:38 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:38 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:38 root 458:  Inlining 5 segments...
+06-21 11:42:38 root 928:  Writing Text with 170 points
+06-21 11:42:38 root 928:  Writing Text with 10 points
+06-21 11:42:38 root 928:  Writing Text with 13 points
+06-21 11:42:38 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:38 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:38 root 458:  Inlining 6 segments...
+06-21 11:42:38 root 928:  Writing Text with 201 points
+06-21 11:42:38 root 928:  Writing Text with 10 points
+06-21 11:42:38 root 928:  Writing Text with 13 points
+06-21 11:42:41 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:41 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:41 root 458:  Inlining 5 segments...
+06-21 11:42:41 root 928:  Writing Text with 170 points
+06-21 11:42:41 root 928:  Writing Text with 10 points
+06-21 11:42:41 root 928:  Writing Text with 13 points
+06-21 11:42:41 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:41 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:41 root 458:  Inlining 4 segments...
+06-21 11:42:41 root 928:  Writing Text with 121 points
+06-21 11:42:41 root 928:  Writing Text with 10 points
+06-21 11:42:41 root 928:  Writing Text with 13 points
+06-21 11:42:42 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:42 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:42 root 458:  Inlining 3 segments...
+06-21 11:42:42 root 928:  Writing Text with 99 points
+06-21 11:42:42 root 928:  Writing Text with 10 points
+06-21 11:42:43 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:43 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:43 root 458:  Inlining 5 segments...
+06-21 11:42:43 root 928:  Writing Text with 154 points
+06-21 11:42:43 root 928:  Writing Text with 10 points
+06-21 11:42:43 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:43 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:43 root 458:  Inlining 6 segments...
+06-21 11:42:43 root 928:  Writing Text with 178 points
+06-21 11:42:43 root 928:  Writing Text with 10 points
+06-21 11:42:44 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:44 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:44 root 458:  Inlining 5 segments...
+06-21 11:42:44 root 928:  Writing Text with 154 points
+06-21 11:42:44 root 928:  Writing Text with 10 points
+06-21 11:42:44 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:44 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:45 root 458:  Inlining 4 segments...
+06-21 11:42:45 root 928:  Writing Text with 140 points
+06-21 11:42:45 root 928:  Writing Text with 10 points
+06-21 11:42:45 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:45 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:45 root 458:  Inlining 3 segments...
+06-21 11:42:45 root 928:  Writing Text with 99 points
+06-21 11:42:45 root 928:  Writing Text with 10 points
+06-21 11:42:46 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:46 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:46 root 458:  Inlining 4 segments...
+06-21 11:42:46 root 928:  Writing Text with 111 points
+06-21 11:42:46 root 928:  Writing Text with 10 points
+06-21 11:42:47 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:47 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:47 root 458:  Inlining 5 segments...
+06-21 11:42:47 root 928:  Writing Text with 125 points
+06-21 11:42:47 root 928:  Writing Text with 10 points
+06-21 11:42:47 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:47 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:47 root 458:  Inlining 6 segments...
+06-21 11:42:47 root 928:  Writing Text with 139 points
+06-21 11:42:47 root 928:  Writing Text with 10 points
+06-21 11:42:48 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:48 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:48 root 458:  Inlining 7 segments...
+06-21 11:42:48 root 928:  Writing Text with 162 points
+06-21 11:42:48 root 928:  Writing Text with 15 points
+06-21 11:42:48 root 928:  Writing Text with 10 points
+06-21 11:42:49 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:49 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:49 root 458:  Inlining 6 segments...
+06-21 11:42:49 root 928:  Writing Text with 139 points
+06-21 11:42:49 root 928:  Writing Text with 10 points
+06-21 11:42:49 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:49 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:49 root 458:  Inlining 5 segments...
+06-21 11:42:49 root 928:  Writing Text with 125 points
+06-21 11:42:49 root 928:  Writing Text with 10 points
+06-21 11:42:50 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:50 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:50 root 458:  Inlining 3 segments...
+06-21 11:42:50 root 928:  Writing Text with 99 points
+06-21 11:42:50 root 928:  Writing Text with 10 points
+06-21 11:42:51 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:51 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:51 root 458:  Inlining 3 segments...
+06-21 11:42:51 root 928:  Writing Text with 99 points
+06-21 11:42:51 root 928:  Writing Text with 10 points
+06-21 11:42:56 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:42:57 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:42:57 root 458:  Inlining 3 segments...
+06-21 11:42:57 root 928:  Writing Text with 130 points
+06-21 11:42:57 root 928:  Writing Text with 10 points
+06-21 11:43:00 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:43:00 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:43:00 root 458:  Inlining 3 segments...
+06-21 11:43:00 root 928:  Writing Text with 130 points
+06-21 11:43:00 root 928:  Writing Text with 10 points
+06-21 11:43:01 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:43:01 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:43:01 root 458:  Inlining 3 segments...
+06-21 11:43:01 root 928:  Writing Text with 130 points
+06-21 11:43:01 root 928:  Writing Text with 10 points
+06-21 11:43:01 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:43:01 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:43:01 root 458:  Inlining 3 segments...
+06-21 11:43:01 root 928:  Writing Text with 130 points
+06-21 11:43:01 root 928:  Writing Text with 10 points
+06-21 11:43:06 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:43:06 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:43:06 root 458:  Inlining 3 segments...
+06-21 11:43:06 root 928:  Writing Text with 130 points
+06-21 11:43:06 root 928:  Writing Text with 10 points
+06-21 11:43:08 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:43:08 root 458:  Inlining 3 segments...
+06-21 11:43:08 root 928:  Writing Text with 130 points
+06-21 11:43:08 root 928:  Writing Text with 10 points
+06-21 11:43:20 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:43:20 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:43:20 root 458:  Inlining 3 segments...
+06-21 11:43:20 root 928:  Writing Text with 130 points
+06-21 11:43:20 root 928:  Writing Text with 10 points
+06-21 11:43:24 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:43:24 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:43:24 root 458:  Inlining 3 segments...
+06-21 11:43:24 root 928:  Writing Text with 130 points
+06-21 11:43:24 root 928:  Writing Text with 10 points
+06-21 11:43:26 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:43:26 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:43:26 root 458:  Inlining 3 segments...
+06-21 11:43:26 root 928:  Writing Text with 130 points
+06-21 11:43:26 root 928:  Writing Text with 10 points
+06-21 11:43:29 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:43:29 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:43:29 root 458:  Inlining 3 segments...
+06-21 11:43:29 root 928:  Writing Text with 161 points
+06-21 11:43:29 root 928:  Writing Text with 10 points
+06-21 11:43:31 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:43:31 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:43:31 root 458:  Inlining 3 segments...
+06-21 11:43:31 root 928:  Writing Text with 130 points
+06-21 11:43:31 root 928:  Writing Text with 10 points
+06-21 11:43:36 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:43:36 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:43:36 root 458:  Inlining 3 segments...
+06-21 11:43:36 root 928:  Writing Text with 130 points
+06-21 11:43:36 root 928:  Writing Text with 10 points
+06-21 11:43:38 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:43:38 root 458:  Inlining 3 segments...
+06-21 11:43:38 root 928:  Writing Text with 130 points
+06-21 11:43:38 root 928:  Writing Text with 10 points
+06-21 11:43:47 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:43:47 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:43:47 root 458:  Inlining 3 segments...
+06-21 11:43:47 root 928:  Writing Text with 130 points
+06-21 11:43:47 root 928:  Writing Text with 10 points
+06-21 11:43:51 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:43:51 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:43:51 root 458:  Inlining 3 segments...
+06-21 11:43:51 root 928:  Writing Text with 130 points
+06-21 11:43:51 root 928:  Writing Text with 10 points
+06-21 11:43:51 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:43:51 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:43:51 root 458:  Inlining 3 segments...
+06-21 11:43:51 root 928:  Writing Text with 130 points
+06-21 11:43:51 root 928:  Writing Text with 10 points
+06-21 11:43:52 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:43:52 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:43:52 root 458:  Inlining 3 segments...
+06-21 11:43:52 root 928:  Writing Text with 130 points
+06-21 11:43:52 root 928:  Writing Text with 10 points
+06-21 11:43:54 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:43:54 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:43:54 root 458:  Inlining 3 segments...
+06-21 11:43:54 root 928:  Writing Text with 130 points
+06-21 11:43:54 root 928:  Writing Text with 10 points
+06-21 11:43:55 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:43:55 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:43:55 root 458:  Inlining 3 segments...
+06-21 11:43:55 root 928:  Writing Text with 130 points
+06-21 11:43:55 root 928:  Writing Text with 10 points
+06-21 11:43:56 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:43:56 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:43:56 root 458:  Inlining 3 segments...
+06-21 11:43:56 root 928:  Writing Text with 130 points
+06-21 11:43:56 root 928:  Writing Text with 10 points
+06-21 11:43:56 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:43:56 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:43:56 root 458:  Inlining 3 segments...
+06-21 11:43:56 root 928:  Writing Text with 130 points
+06-21 11:43:56 root 928:  Writing Text with 10 points
+06-21 11:43:58 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:43:58 root 458:  Inlining 3 segments...
+06-21 11:43:58 root 928:  Writing Text with 130 points
+06-21 11:43:58 root 928:  Writing Text with 10 points
+06-21 11:44:32 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:44:32 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:44:32 root 458:  Inlining 3 segments...
+06-21 11:44:32 root 928:  Writing Text with 130 points
+06-21 11:44:32 root 928:  Writing Text with 10 points
+06-21 11:44:39 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:44:39 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:44:39 root 458:  Inlining 3 segments...
+06-21 11:44:39 root 928:  Writing Text with 131 points
+06-21 11:44:39 root 928:  Writing Text with 10 points
+06-21 11:44:41 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:44:41 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:44:41 root 458:  Inlining 3 segments...
+06-21 11:44:41 root 928:  Writing Text with 100 points
+06-21 11:44:41 root 928:  Writing Text with 10 points
+06-21 11:44:44 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:44:44 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:44:44 root 458:  Inlining 3 segments...
+06-21 11:44:44 root 928:  Writing Text with 100 points
+06-21 11:44:44 root 928:  Writing Text with 10 points
+06-21 11:44:46 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:44:46 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:44:46 root 458:  Inlining 3 segments...
+06-21 11:44:46 root 928:  Writing Text with 100 points
+06-21 11:44:46 root 928:  Writing Text with 10 points
+06-21 11:44:47 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:44:47 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:44:47 root 458:  Inlining 3 segments...
+06-21 11:44:47 root 928:  Writing Text with 100 points
+06-21 11:44:47 root 928:  Writing Text with 10 points
+06-21 11:44:49 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:44:49 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:44:49 root 458:  Inlining 3 segments...
+06-21 11:44:49 root 928:  Writing Text with 100 points
+06-21 11:44:49 root 928:  Writing Text with 10 points
+06-21 11:44:50 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:44:50 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:44:50 root 458:  Inlining 3 segments...
+06-21 11:44:50 root 928:  Writing Text with 100 points
+06-21 11:44:50 root 928:  Writing Text with 10 points
+06-21 11:44:55 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:44:55 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:44:55 root 458:  Inlining 3 segments...
+06-21 11:44:55 root 928:  Writing Text with 100 points
+06-21 11:44:55 root 928:  Writing Text with 10 points
+06-21 11:44:55 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:44:55 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:44:55 root 458:  Inlining 3 segments...
+06-21 11:44:55 root 928:  Writing Text with 100 points
+06-21 11:44:55 root 928:  Writing Text with 10 points
+06-21 11:44:58 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:44:58 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:44:58 root 458:  Inlining 3 segments...
+06-21 11:44:58 root 928:  Writing Text with 100 points
+06-21 11:44:58 root 928:  Writing Text with 10 points
+06-21 11:44:58 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:44:58 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:44:58 root 458:  Inlining 3 segments...
+06-21 11:44:58 root 928:  Writing Text with 100 points
+06-21 11:44:58 root 928:  Writing Text with 10 points
+06-21 11:44:59 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:44:59 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:44:59 root 458:  Inlining 3 segments...
+06-21 11:44:59 root 928:  Writing Text with 100 points
+06-21 11:44:59 root 928:  Writing Text with 10 points
+06-21 11:44:59 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:44:59 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:44:59 root 458:  Inlining 3 segments...
+06-21 11:44:59 root 928:  Writing Text with 100 points
+06-21 11:44:59 root 928:  Writing Text with 10 points
+06-21 11:45:02 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:45:02 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:45:02 root 458:  Inlining 3 segments...
+06-21 11:45:02 root 928:  Writing Text with 100 points
+06-21 11:45:02 root 928:  Writing Text with 10 points
+06-21 11:45:03 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:45:03 root 458:  Inlining 3 segments...
+06-21 11:45:04 root 928:  Writing Text with 100 points
+06-21 11:45:04 root 928:  Writing Text with 10 points
+06-21 11:45:24 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:45:24 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:45:24 root 458:  Inlining 3 segments...
+06-21 11:45:25 root 928:  Writing Text with 100 points
+06-21 11:45:25 root 928:  Writing Text with 10 points
+06-21 11:45:26 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:45:26 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:45:26 root 458:  Inlining 1 segments...
+06-21 11:45:26 root 928:  Writing Text with 24 points
+06-21 11:45:26 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:45:26 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:45:26 root 458:  Inlining 2 segments...
+06-21 11:45:26 root 928:  Writing Text with 56 points
+06-21 11:45:27 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:45:27 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:45:27 root 458:  Inlining 3 segments...
+06-21 11:45:27 root 928:  Writing Text with 66 points
+06-21 11:45:28 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:45:28 root 458:  Inlining 3 segments...
+06-21 11:45:28 root 928:  Writing Text with 66 points
+06-21 11:45:33 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:45:33 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:45:33 root 458:  Inlining 3 segments...
+06-21 11:45:33 root 928:  Writing Text with 66 points
+06-21 11:45:38 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:45:38 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:45:38 root 458:  Inlining 2 segments...
+06-21 11:45:38 root 928:  Writing Text with 90 points
+06-21 11:45:38 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:45:38 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:45:38 root 458:  Inlining 3 segments...
+06-21 11:45:38 root 928:  Writing Text with 118 points
+06-21 11:45:38 root 928:  Writing Text with 11 points
+06-21 11:45:38 root 928:  Writing Text with 11 points
+06-21 11:45:41 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:45:42 root 458:  Inlining 3 segments...
+06-21 11:45:42 root 928:  Writing Text with 118 points
+06-21 11:45:42 root 928:  Writing Text with 11 points
+06-21 11:45:42 root 928:  Writing Text with 11 points
+06-21 11:45:55 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:45:55 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:45:55 root 458:  Inlining 3 segments...
+06-21 11:45:55 root 928:  Writing Text with 118 points
+06-21 11:45:55 root 928:  Writing Text with 11 points
+06-21 11:45:55 root 928:  Writing Text with 11 points
+06-21 11:45:56 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:45:56 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:45:56 root 458:  Inlining 1 segments...
+06-21 11:45:56 root 928:  Writing Text with 24 points
+06-21 11:45:57 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:45:57 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:45:57 root 458:  Inlining 2 segments...
+06-21 11:45:57 root 928:  Writing Text with 56 points
+06-21 11:45:57 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:45:57 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:45:57 root 458:  Inlining 3 segments...
+06-21 11:45:57 root 928:  Writing Text with 66 points
+06-21 11:45:57 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:45:57 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:45:57 root 458:  Inlining 3 segments...
+06-21 11:45:57 root 928:  Writing Text with 66 points
+06-21 11:46:00 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:46:00 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:00 root 458:  Inlining 4 segments...
+06-21 11:46:00 root 928:  Writing Text with 88 points
+06-21 11:46:00 root 928:  Writing Text with 13 points
+06-21 11:46:00 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:46:00 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:00 root 458:  Inlining 5 segments...
+06-21 11:46:00 root 928:  Writing Text with 137 points
+06-21 11:46:00 root 928:  Writing Text with 13 points
+06-21 11:46:00 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:46:00 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:00 root 458:  Inlining 6 segments...
+06-21 11:46:00 root 928:  Writing Text with 168 points
+06-21 11:46:00 root 928:  Writing Text with 13 points
+06-21 11:46:04 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:46:04 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:04 root 458:  Inlining 6 segments...
+06-21 11:46:04 root 928:  Writing Text with 167 points
+06-21 11:46:04 root 928:  Writing Text with 13 points
+06-21 11:46:05 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:05 root 458:  Inlining 6 segments...
+06-21 11:46:05 root 928:  Writing Text with 167 points
+06-21 11:46:05 root 928:  Writing Text with 13 points
+06-21 11:46:20 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:46:20 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:20 root 458:  Inlining 6 segments...
+06-21 11:46:20 root 928:  Writing Text with 167 points
+06-21 11:46:20 root 928:  Writing Text with 13 points
+06-21 11:46:21 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:46:21 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:21 root 458:  Inlining 1 segments...
+06-21 11:46:21 root 928:  Writing Text with 21 points
+06-21 11:46:22 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:46:22 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:22 root 458:  Inlining 2 segments...
+06-21 11:46:22 root 928:  Writing Text with 35 points
+06-21 11:46:22 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:46:22 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:22 root 458:  Inlining 3 segments...
+06-21 11:46:22 root 928:  Writing Text with 49 points
+06-21 11:46:22 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:46:22 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:22 root 458:  Inlining 4 segments...
+06-21 11:46:22 root 928:  Writing Text with 72 points
+06-21 11:46:22 root 928:  Writing Text with 15 points
+06-21 11:46:23 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:46:23 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:23 root 458:  Inlining 5 segments...
+06-21 11:46:23 root 928:  Writing Text with 86 points
+06-21 11:46:23 root 928:  Writing Text with 15 points
+06-21 11:46:23 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:46:23 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:23 root 458:  Inlining 6 segments...
+06-21 11:46:23 root 928:  Writing Text with 116 points
+06-21 11:46:23 root 928:  Writing Text with 15 points
+06-21 11:46:23 root 928:  Writing Text with 12 points
+06-21 11:46:26 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:46:26 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:26 root 458:  Inlining 6 segments...
+06-21 11:46:26 root 928:  Writing Text with 116 points
+06-21 11:46:26 root 928:  Writing Text with 15 points
+06-21 11:46:26 root 928:  Writing Text with 12 points
+06-21 11:46:26 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:46:26 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:26 root 458:  Inlining 6 segments...
+06-21 11:46:26 root 928:  Writing Text with 116 points
+06-21 11:46:26 root 928:  Writing Text with 15 points
+06-21 11:46:26 root 928:  Writing Text with 12 points
+06-21 11:46:28 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:46:28 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:28 root 458:  Inlining 6 segments...
+06-21 11:46:28 root 928:  Writing Text with 116 points
+06-21 11:46:28 root 928:  Writing Text with 15 points
+06-21 11:46:28 root 928:  Writing Text with 12 points
+06-21 11:46:28 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:46:28 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:28 root 458:  Inlining 6 segments...
+06-21 11:46:28 root 928:  Writing Text with 116 points
+06-21 11:46:28 root 928:  Writing Text with 15 points
+06-21 11:46:28 root 928:  Writing Text with 12 points
+06-21 11:46:28 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:28 root 458:  Inlining 6 segments...
+06-21 11:46:28 root 928:  Writing Text with 116 points
+06-21 11:46:28 root 928:  Writing Text with 15 points
+06-21 11:46:28 root 928:  Writing Text with 12 points
+06-21 11:46:35 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:46:35 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:35 root 458:  Inlining 6 segments...
+06-21 11:46:35 root 928:  Writing Text with 116 points
+06-21 11:46:35 root 928:  Writing Text with 15 points
+06-21 11:46:35 root 928:  Writing Text with 12 points
+06-21 11:46:38 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:46:38 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:38 root 458:  Inlining 6 segments...
+06-21 11:46:38 root 928:  Writing Text with 116 points
+06-21 11:46:38 root 928:  Writing Text with 15 points
+06-21 11:46:38 root 928:  Writing Text with 12 points
+06-21 11:46:38 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:46:38 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:38 root 458:  Inlining 6 segments...
+06-21 11:46:38 root 928:  Writing Text with 116 points
+06-21 11:46:38 root 928:  Writing Text with 15 points
+06-21 11:46:38 root 928:  Writing Text with 12 points
+06-21 11:46:40 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:46:40 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:40 root 458:  Inlining 6 segments...
+06-21 11:46:40 root 928:  Writing Text with 116 points
+06-21 11:46:40 root 928:  Writing Text with 15 points
+06-21 11:46:40 root 928:  Writing Text with 12 points
+06-21 11:46:40 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:40 root 458:  Inlining 6 segments...
+06-21 11:46:40 root 928:  Writing Text with 116 points
+06-21 11:46:40 root 928:  Writing Text with 15 points
+06-21 11:46:40 root 928:  Writing Text with 12 points
+06-21 11:46:44 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:46:44 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:44 root 458:  Inlining 6 segments...
+06-21 11:46:44 root 928:  Writing Text with 116 points
+06-21 11:46:44 root 928:  Writing Text with 15 points
+06-21 11:46:44 root 928:  Writing Text with 12 points
+06-21 11:46:46 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:46:46 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:46 root 458:  Inlining 6 segments...
+06-21 11:46:46 root 928:  Writing Text with 116 points
+06-21 11:46:46 root 928:  Writing Text with 15 points
+06-21 11:46:46 root 928:  Writing Text with 12 points
+06-21 11:46:47 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:46:47 root 458:  Inlining 6 segments...
+06-21 11:46:47 root 928:  Writing Text with 116 points
+06-21 11:46:47 root 928:  Writing Text with 15 points
+06-21 11:46:47 root 928:  Writing Text with 12 points
+06-21 11:47:01 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:47:01 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:01 root 458:  Inlining 6 segments...
+06-21 11:47:01 root 928:  Writing Text with 116 points
+06-21 11:47:01 root 928:  Writing Text with 15 points
+06-21 11:47:01 root 928:  Writing Text with 12 points
+06-21 11:47:04 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:47:04 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:04 root 458:  Inlining 6 segments...
+06-21 11:47:04 root 928:  Writing Text with 116 points
+06-21 11:47:04 root 928:  Writing Text with 15 points
+06-21 11:47:04 root 928:  Writing Text with 12 points
+06-21 11:47:04 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:47:04 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:04 root 458:  Inlining 6 segments...
+06-21 11:47:04 root 928:  Writing Text with 116 points
+06-21 11:47:04 root 928:  Writing Text with 15 points
+06-21 11:47:04 root 928:  Writing Text with 12 points
+06-21 11:47:05 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:47:05 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:05 root 458:  Inlining 6 segments...
+06-21 11:47:05 root 928:  Writing Text with 116 points
+06-21 11:47:05 root 928:  Writing Text with 15 points
+06-21 11:47:05 root 928:  Writing Text with 12 points
+06-21 11:47:05 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:47:05 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:05 root 458:  Inlining 6 segments...
+06-21 11:47:05 root 928:  Writing Text with 116 points
+06-21 11:47:05 root 928:  Writing Text with 15 points
+06-21 11:47:05 root 928:  Writing Text with 12 points
+06-21 11:47:05 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:05 root 458:  Inlining 6 segments...
+06-21 11:47:05 root 928:  Writing Text with 116 points
+06-21 11:47:05 root 928:  Writing Text with 15 points
+06-21 11:47:05 root 928:  Writing Text with 12 points
+06-21 11:47:10 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:47:10 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:10 root 458:  Inlining 6 segments...
+06-21 11:47:10 root 928:  Writing Text with 116 points
+06-21 11:47:10 root 928:  Writing Text with 15 points
+06-21 11:47:10 root 928:  Writing Text with 12 points
+06-21 11:47:12 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:47:12 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:12 root 458:  Inlining 6 segments...
+06-21 11:47:12 root 928:  Writing Text with 116 points
+06-21 11:47:12 root 928:  Writing Text with 15 points
+06-21 11:47:12 root 928:  Writing Text with 12 points
+06-21 11:47:12 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:47:12 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:12 root 458:  Inlining 6 segments...
+06-21 11:47:12 root 928:  Writing Text with 116 points
+06-21 11:47:12 root 928:  Writing Text with 15 points
+06-21 11:47:12 root 928:  Writing Text with 12 points
+06-21 11:47:13 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:47:13 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:13 root 458:  Inlining 6 segments...
+06-21 11:47:13 root 928:  Writing Text with 116 points
+06-21 11:47:13 root 928:  Writing Text with 15 points
+06-21 11:47:13 root 928:  Writing Text with 12 points
+06-21 11:47:14 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:47:14 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:14 root 458:  Inlining 6 segments...
+06-21 11:47:14 root 928:  Writing Text with 116 points
+06-21 11:47:14 root 928:  Writing Text with 15 points
+06-21 11:47:14 root 928:  Writing Text with 12 points
+06-21 11:47:14 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:47:14 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:14 root 458:  Inlining 6 segments...
+06-21 11:47:14 root 928:  Writing Text with 116 points
+06-21 11:47:14 root 928:  Writing Text with 15 points
+06-21 11:47:14 root 928:  Writing Text with 12 points
+06-21 11:47:17 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:47:17 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:17 root 458:  Inlining 6 segments...
+06-21 11:47:17 root 928:  Writing Text with 116 points
+06-21 11:47:17 root 928:  Writing Text with 15 points
+06-21 11:47:17 root 928:  Writing Text with 12 points
+06-21 11:47:17 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:47:17 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:17 root 458:  Inlining 6 segments...
+06-21 11:47:17 root 928:  Writing Text with 116 points
+06-21 11:47:17 root 928:  Writing Text with 15 points
+06-21 11:47:17 root 928:  Writing Text with 12 points
+06-21 11:47:17 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:17 root 458:  Inlining 6 segments...
+06-21 11:47:17 root 928:  Writing Text with 116 points
+06-21 11:47:17 root 928:  Writing Text with 15 points
+06-21 11:47:17 root 928:  Writing Text with 12 points
+06-21 11:47:24 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:47:24 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:24 root 458:  Inlining 6 segments...
+06-21 11:47:24 root 928:  Writing Text with 116 points
+06-21 11:47:24 root 928:  Writing Text with 15 points
+06-21 11:47:24 root 928:  Writing Text with 12 points
+06-21 11:47:27 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:47:27 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:27 root 458:  Inlining 6 segments...
+06-21 11:47:27 root 928:  Writing Text with 116 points
+06-21 11:47:27 root 928:  Writing Text with 15 points
+06-21 11:47:27 root 928:  Writing Text with 12 points
+06-21 11:47:28 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:47:28 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:28 root 458:  Inlining 6 segments...
+06-21 11:47:28 root 928:  Writing Text with 116 points
+06-21 11:47:28 root 928:  Writing Text with 15 points
+06-21 11:47:28 root 928:  Writing Text with 12 points
+06-21 11:47:28 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:28 root 458:  Inlining 6 segments...
+06-21 11:47:28 root 928:  Writing Text with 116 points
+06-21 11:47:28 root 928:  Writing Text with 15 points
+06-21 11:47:28 root 928:  Writing Text with 12 points
+06-21 11:47:34 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:47:34 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:34 root 458:  Inlining 6 segments...
+06-21 11:47:34 root 928:  Writing Text with 116 points
+06-21 11:47:34 root 928:  Writing Text with 15 points
+06-21 11:47:34 root 928:  Writing Text with 12 points
+06-21 11:47:35 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:47:35 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:35 root 458:  Inlining 6 segments...
+06-21 11:47:35 root 928:  Writing Text with 116 points
+06-21 11:47:35 root 928:  Writing Text with 15 points
+06-21 11:47:35 root 928:  Writing Text with 12 points
+06-21 11:47:36 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:47:36 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:36 root 458:  Inlining 6 segments...
+06-21 11:47:36 root 928:  Writing Text with 116 points
+06-21 11:47:36 root 928:  Writing Text with 15 points
+06-21 11:47:36 root 928:  Writing Text with 12 points
+06-21 11:47:37 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:47:37 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:37 root 458:  Inlining 6 segments...
+06-21 11:47:37 root 928:  Writing Text with 116 points
+06-21 11:47:37 root 928:  Writing Text with 15 points
+06-21 11:47:37 root 928:  Writing Text with 12 points
+06-21 11:47:37 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:37 root 458:  Inlining 6 segments...
+06-21 11:47:37 root 928:  Writing Text with 116 points
+06-21 11:47:37 root 928:  Writing Text with 15 points
+06-21 11:47:37 root 928:  Writing Text with 12 points
+06-21 11:47:41 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:47:41 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:41 root 458:  Inlining 6 segments...
+06-21 11:47:41 root 928:  Writing Text with 116 points
+06-21 11:47:41 root 928:  Writing Text with 15 points
+06-21 11:47:41 root 928:  Writing Text with 12 points
+06-21 11:47:43 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:47:43 root 458:  Inlining 6 segments...
+06-21 11:47:43 root 928:  Writing Text with 116 points
+06-21 11:47:43 root 928:  Writing Text with 15 points
+06-21 11:47:43 root 928:  Writing Text with 12 points
+06-21 11:49:09 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:49:09 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:49:09 root 458:  Inlining 6 segments...
+06-21 11:49:09 root 928:  Writing Text with 116 points
+06-21 11:49:09 root 928:  Writing Text with 15 points
+06-21 11:49:09 root 928:  Writing Text with 12 points
+06-21 11:49:11 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:49:11 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:49:11 root 458:  Inlining 1 segments...
+06-21 11:49:11 root 928:  Writing Text with 23 points
+06-21 11:49:12 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:49:12 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:49:12 root 458:  Inlining 2 segments...
+06-21 11:49:12 root 928:  Writing Text with 55 points
+06-21 11:49:12 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:49:12 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:49:12 root 458:  Inlining 3 segments...
+06-21 11:49:12 root 928:  Writing Text with 85 points
+06-21 11:49:12 root 928:  Writing Text with 12 points
+06-21 11:49:13 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:49:13 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:49:13 root 458:  Inlining 2 segments...
+06-21 11:49:13 root 928:  Writing Text with 55 points
+06-21 11:49:13 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:49:13 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:49:13 root 458:  Inlining 3 segments...
+06-21 11:49:13 root 928:  Writing Text with 65 points
+06-21 11:49:17 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:49:17 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:49:17 root 458:  Inlining 3 segments...
+06-21 11:49:17 root 928:  Writing Text with 66 points
+06-21 11:49:18 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:49:18 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:49:18 root 458:  Inlining 3 segments...
+06-21 11:49:18 root 928:  Writing Text with 66 points
+06-21 11:49:19 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:49:19 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:49:19 root 458:  Inlining 3 segments...
+06-21 11:49:19 root 928:  Writing Text with 66 points
+06-21 11:49:19 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:49:19 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:49:19 root 458:  Inlining 3 segments...
+06-21 11:49:19 root 928:  Writing Text with 66 points
+06-21 11:49:21 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:49:21 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:49:21 root 458:  Inlining 3 segments...
+06-21 11:49:21 root 928:  Writing Text with 66 points
+06-21 11:49:22 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:49:22 root 458:  Inlining 3 segments...
+06-21 11:49:22 root 928:  Writing Text with 66 points
+06-21 11:49:47 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:49:47 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:49:47 root 458:  Inlining 3 segments...
+06-21 11:49:47 root 928:  Writing Text with 66 points
+06-21 11:49:49 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:49:49 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:49:49 root 458:  Inlining 2 segments...
+06-21 11:49:49 root 928:  Writing Text with 90 points
+06-21 11:49:49 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:49:49 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:49:49 root 458:  Inlining 3 segments...
+06-21 11:49:49 root 928:  Writing Text with 118 points
+06-21 11:49:49 root 928:  Writing Text with 11 points
+06-21 11:49:49 root 928:  Writing Text with 11 points
+06-21 11:49:52 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:49:52 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:49:52 root 458:  Inlining 3 segments...
+06-21 11:49:52 root 928:  Writing Text with 118 points
+06-21 11:49:52 root 928:  Writing Text with 11 points
+06-21 11:49:52 root 928:  Writing Text with 11 points
+06-21 11:49:54 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:49:54 root 458:  Inlining 3 segments...
+06-21 11:49:54 root 928:  Writing Text with 118 points
+06-21 11:49:54 root 928:  Writing Text with 11 points
+06-21 11:49:54 root 928:  Writing Text with 11 points
+06-21 11:50:14 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:50:14 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:50:14 root 458:  Inlining 3 segments...
+06-21 11:50:14 root 928:  Writing Text with 118 points
+06-21 11:50:14 root 928:  Writing Text with 11 points
+06-21 11:50:14 root 928:  Writing Text with 11 points
+06-21 11:50:17 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:50:17 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:50:17 root 458:  Inlining 1 segments...
+06-21 11:50:17 root 928:  Writing Text with 50 points
+06-21 11:50:17 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:50:17 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:50:17 root 458:  Inlining 2 segments...
+06-21 11:50:17 root 928:  Writing Text with 76 points
+06-21 11:50:17 root 928:  Writing Text with 10 points
+06-21 11:50:18 root 1198:Font "UbuntuMono-B" does not natively support style "Regular" using "Path" instead
+06-21 11:50:18 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:50:18 root 458:  Inlining 3 segments...
+06-21 11:50:18 root 928:  Writing Text with 100 points
+06-21 11:50:18 root 928:  Writing Text with 10 points
+06-21 11:50:19 unfiltered 871:Found SVG layer: F.SilkS
+06-21 11:50:19 root 458:  Inlining 3 segments...
+06-21 11:50:19 root 928:  Writing Text with 100 points
+06-21 11:50:19 root 928:  Writing Text with 10 points
