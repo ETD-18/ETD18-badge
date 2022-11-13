@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "layers")(type KiCad)(uri "$(KIPRJMOD)/layers.pretty")(options "")(descr ""))
+)
