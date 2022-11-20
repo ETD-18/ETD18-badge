@@ -3129,11 +3129,6 @@
     (uuid ff592cf2-f946-49f0-a8ac-e543f6f8651e)
   )
 
-  (text "verif button\n" (at 110.49 154.94 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 7ea3ac79-269f-49da-863b-9255f1a8e214)
-  )
-
   (label "ROW2" (at 73.66 154.94 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 10484824-e70c-4814-a68d-4102acc1efcf)
@@ -3383,7 +3378,7 @@
     (uuid 11f74aa4-46af-431f-9c53-aa9429b4268a)
     (property "Reference" "SW2" (id 0) (at 113.03 165.1 0))
     (property "Value" "SW_Push" (id 1) (at 113.03 167.64 0))
-    (property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxJ" (id 2) (at 113.03 167.64 0)
+    (property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm" (id 2) (at 113.03 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 113.03 167.64 0)
@@ -5115,7 +5110,7 @@
       (reference "SW1") (unit 1) (value "SK-3296S-01-L1") (footprint "badge:sk-3296s-01-l1")
     )
     (path "/11f74aa4-46af-431f-9c53-aa9429b4268a"
-      (reference "SW2") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxJ")
+      (reference "SW2") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm")
     )
     (path "/94dbc41a-cbcf-45a2-b206-e5a9e1ca811c"
       (reference "U1") (unit 1) (value "ATtiny424-SSU") (footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
