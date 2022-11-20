@@ -39,12 +39,6 @@
         (fill (type none))
       )
     )
-    (symbol "Badge_1_1"
-      (pin passive line (at 0 -5.08 90) (length 2.54)
-        (name "" (effects (font (size 1.27 1.27))))
-        (number "1" (effects (font (size 1.27 1.27))))
-      )
-    )
   )
   (symbol "Badge Pin Pad" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "H" (id 0) (at 0 6.35 0)

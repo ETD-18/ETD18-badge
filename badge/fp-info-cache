@@ -1,4 +1,4 @@
-20671934466237706
+20678611131822110
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86142,6 +86142,20 @@ data-manager-faceplate
 0
 0
 guigur-lib
+guigur_engineering_extra_extra_small_logo
+
+
+0
+0
+0
+guigur-lib
+guigur_engineering_extra_small_logo
+
+
+0
+0
+0
+guigur-lib
 guigur_engineering_logo_medium
 
 
@@ -86159,6 +86173,20 @@ guigur-lib
 kibuzzard-628A722A
 Converted using: scripting
 svg2mod
+0
+0
+0
+guigur-lib
+kicad_design_with_5mm
+
+
+0
+0
+0
+guigur-lib
+kicad_design_with_7.5mm
+
+
 0
 0
 0
