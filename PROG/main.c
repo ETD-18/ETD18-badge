@@ -5,13 +5,13 @@
  *  Author: guigur
  */ 
 
-#include <xc.h>
+//#include <xc.h>
 #include <avr/io.h>
 #include <avr/interrupt.h>
 #include <util/delay.h>
 #include <util/twi.h>
 
-uint8_t rows[] = { 0x02, 0x04, 0x08 };
+uint8_t rows[] = { 0x02, 0x01, 0x08, 0x04 }; //R1 R0 R3 R2
 uint8_t cols[] = { 0xe0, 0xd0, 0xb0, 0x70 };
 
 typedef union cg {
@@ -43,7 +43,6 @@ void ringAnnim()
 				PORTA.OUT = rows[r] + cols[c];
 				_delay_ms(1000);
 			}
-
 		}
 }
 
@@ -63,12 +62,14 @@ void neopix(uint32_t color)
 	}
 }
 
+/*
 ISR(TCA0_OVF_vect)
 {
 	TCA0.SINGLE.INTFLAGS = TCA_SINGLE_OVF_bm;
 	PORTB.OUT = 0;
 	PORTB.OUT = 0xff;
 }
+*/
 
 void timerInit()
 {
@@ -141,23 +142,59 @@ int main(void)
 {
 	CCP = 0xD8;
 	CLKCTRL.MCLKCTRLB = 0x00;
-
-	//PORTA.DIR = 0xff;
-	PORTB.DIR = 0xff;
-	timerInit();
 	
+	PORTA.DIR = 0xFF; //all outs
+	PORTB.DIR = 0xFF; //all ins
+	
+	timerInit();
+	cli();
 	//sei();
 
+
+
+
+
+
+ /* Configure SW0 as input */
+ PORTB.DIRCLR = PIN0_bm;
+ int a = PIN0_bm;
+ /*Enable internal pull up for SW0*/
+ //PORTB.PIN0CTRL = PORT_PULLUPEN_bm;
+
+ while (1)
+ {
+	 /* Check the status of SW0 */
+	 /* 0: Pressed */
+	 if (!(PORTB.IN & (PIN0_bm)))
+	 {
+	 /* LED0 off */
+	 	PORTA.DIR = 0xFF; //all outs
+		ringAnnim();
+		PORTA.DIRCLR = 0x00;
+		}
+		 /* 1: Released */
+
+		 else
+		 {
+		 /* LED0 on */
+		 }
 	
+		  _delay_ms(500);
+
+}
+
+
+	//PORTA.OUT = 0x0F;
 	while(1)
     {
-		neopix(c.col);
-		//neopix(0xff0000);
-       //ringAnnim();
-	  //neopix();
-	  		colorMania();
 
-	  _delay_ms(50);
+			//ringAnnim();
+		
+		//neopix(c.col);
+		//neopix(0xff0000);
+	  //neopix();
+	  		//colorMania();
+
 
 
 	}
