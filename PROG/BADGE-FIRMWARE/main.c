@@ -163,24 +163,22 @@ int main(void)
 
  while (1)
  {
-	 /* Check the status of SW0 */
-	 /* 0: Pressed */
-	 if (!(PORTB.IN & (PIN0_bm)))
-	 {
-	 /* LED0 off */
-	 	PORTA.DIR = 0xFF; //all outs
-		ringAnnim();
-		PORTA.DIRCLR = 0x00;
-		}
-		 /* 1: Released */
-
-		 else
-		 {
-		 /* LED0 on */
-		 }
-	
-		  _delay_ms(500);
-
+	/* Check the status of SW0 */
+	/* 0: Pressed */
+	if (!(PORTB.IN & (PIN0_bm)))
+	{
+		colorMania();
+		/* LED0 off */
+		//PORTA.DIR = 0xFF; //all outs
+		//ringAnnim();
+		//PORTA.DIRCLR = 0x00;
+	}
+	/* 1: Released */
+	else
+	{
+		/* LED0 on */
+	}
+	 _delay_ms(500);
 }
 
 
